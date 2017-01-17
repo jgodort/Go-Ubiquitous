@@ -123,9 +123,9 @@
                 android:textAppearance="@style/TextAppearance.AppCompat.Title"
                 />
 
-            <android.support.v7.widget.Space
-                app:layout_columnSpan="2"
-                app:layout_rowWeight="1" />
+            <!--<android.support.v7.widget.Space-->
+                <!--app:layout_columnSpan="2"-->
+                <!--app:layout_rowWeight="1" />-->
 
         </android.support.v7.widget.GridLayout>
     </LinearLayout>

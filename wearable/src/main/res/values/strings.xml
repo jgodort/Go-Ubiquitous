@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wearable</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_digital_name">Sunshine WatchFace</string>
+    <string name="sample_time" translatable="false">13:00:00</string>
+    <string name="sample_time_short" translatable="false">13:00</string>
+    <string name="sample_date" translatable="false">SUN, JAN 1, 2017</string>
+    <string name="sample_temp" translatable="false">25º</string>
+</resources>
